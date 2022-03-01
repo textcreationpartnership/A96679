@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most true relation of the last weekes passages in Yorke, and Hull, in two letters from thence, discovering the strange behaviours and rude affronts of the cavaliers and other malignant persons in those parts. With diverse other matters of extraordinary note, and very remarkable. Together with the names of those gentlemen which are entertained for the Prince his guard since he was made captaine of the troopes, viz. Mr. Franck of Kneton. George Grant Henry Blackston Peter Blackston brothers. Tho. Hall of Hornby. Francis Tunstell of Wicliff. Bierlaies Sonne. Cane of Stocton. Tounge.</title>
+            <author>Gordricke, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96679</idno>
+            <idno type="STC">Wing W30</idno>
+            <idno type="STC">Thomason E151_18</idno>
+            <idno type="STC">ESTC R10921</idno>
+            <idno type="EEBO-CITATION">99858901</idno>
+            <idno type="PROQUEST">99858901</idno>
+            <idno type="VID">156776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156776)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E151[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most true relation of the last weekes passages in Yorke, and Hull, in two letters from thence, discovering the strange behaviours and rude affronts of the cavaliers and other malignant persons in those parts. With diverse other matters of extraordinary note, and very remarkable. Together with the names of those gentlemen which are entertained for the Prince his guard since he was made captaine of the troopes, viz. Mr. Franck of Kneton. George Grant Henry Blackston Peter Blackston brothers. Tho. Hall of Hornby. Francis Tunstell of Wicliff. Bierlaies Sonne. Cane of Stocton. Tounge.</title>
+                  <author>Gordricke, William.</author>
+                  <author>S. M.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 23d. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 4: G.W., i.e. William Gordricke.</note>
+                  <note>With an additional letter signed by S.M., evidently the recipient of the first.</note>
+                  <note>The words "Franck .. Tounge." on title page are bracketed together on the left; the words "Henry Blackston Peter Blackston" are bracketed together on the right.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>York (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156776:1"/>
+            <pb facs="tcp:156776:1" rendition="simple:additions"/>
+            <p>A moſt true RELATION OF The laſt weekes paſſages in YORKE, and HVLL, <hi>In two Letters from thence.</hi> Diſcovering the ſtrange Behaviours and rude affronts of the Cavaliers and other malignant perſons in thoſe parts.</p>
+            <p>With diverſe other matters of extraordinary note, and very remarkable.</p>
+            <p>Together with the Names of thoſe Gentlemen which are entertained for the PRINCE his Guard ſince he was made Captaine of the Troopes, <hi>viz.</hi>
+            </p>
+            <p>Mr. <hi>Franck</hi> of <hi>Kneton.</hi>
+            </p>
+            <p>Mr. <hi>George Grant</hi>
+            </p>
+            <list>
+               <head>Brothers.</head>
+               <item>Mr. <hi>Henry Blackſton</hi>
+               </item>
+               <item>Mr. <hi>Peter Blackſton</hi>
+               </item>
+            </list>
+            <p>Mr. <hi>Tho Hall</hi> of <hi>Hornby.</hi>
+            </p>
+            <p>Mr. <hi>Francis Tunſtell</hi> of <hi>Wicliff.</hi>
+            </p>
+            <p>Mr. <hi>Bierlaies</hi> Sonne.</p>
+            <p>Mr. <hi>Cane of</hi> Stocton.</p>
+            <p>Mr. <hi>Tounge.</hi>
+            </p>
+            <p>London Printed for <hi>Iohn Wright,</hi> June 23d. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156776:2"/>
+            <pb n="1" facs="tcp:156776:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Excuſe my not writing ſince our great meeting at <hi>Yorke,</hi> for indeed we are cleare out of all hopes, and therefore but that you both deſire, and well deſerve the paine, s<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would not have writ at this time, for the great meeting at <hi>Yorke,</hi> it was onely a ſhew, and nothing was done on any ſide, the King came to the Moore with a mighty company of very brave men, when they came they did provoke a ſhoute firſt, and then thoſe that were next them did joyne with them, and ſo marched up where the Trayned Bands ſtood, and they beat their Drums, and as they went the bookes were delivered, no Petitions could be de<g ref="char:EOLhyphen"/>livered. This weeke I was at <hi>Yorke</hi> my ſelfe againe, and there I ſaw many brave men, and it was reported forty foure Lords, who had all made proteſtation againſt the Order of the Militia, not to obey the Par<g ref="char:EOLhyphen"/>liament in it, and to that purpoſe their is Commiſ<g ref="char:EOLhyphen"/>ſions of Array to diſpoſe the Militia to other men, as they report, it is alſo reported at <hi>Yorke,</hi> how they had 300 thouſand pounds at Sea, and Ordnance alſo to be landed at <hi>Scarborrow,</hi> as one of the Captaines at <hi>Yorke</hi> tould me, truly I thinke there was 100 thou<g ref="char:EOLhyphen"/>ſand men at the great ſhout, a tenth part whereof I am confident, would not have beene againſt: he Par<g ref="char:EOLhyphen"/>liament, though now I thinke men begin to waver much, for there is many ſtrange aſpertions caſt on the Parliament by the Papiſts, as that Maſter <hi>Pym</hi> hath marryed two or three daughters with the mony of the
+<pb n="2" facs="tcp:156776:3"/>
+ſtate, the Speaker they ſay is to have a great deale for his part, the Committie at <hi>Yorke</hi> for them a great deale, and Sir <hi>Iohn Hotham</hi> a good quantity, my Lord of <hi>Holland</hi> is very much ſpoken againſt at <hi>Yorke,</hi> as who ſhould ſay, he hath gotten more then his part, with theſe rumours they make people unwilling to pay ſubſidies; many other ſtrange inventions we have a foot, for which it is ſtrange the Parliament doth not put out a Declaration to cleare themſelves. The preaching of my Lords Butler, with another Lords Coachman for a wager, the taking away the Common Prayer Booke, all theſe are frequent among the Pa<g ref="char:EOLhyphen"/>piſts, whoſe Prieſts never did labour with that ear<g ref="char:EOLhyphen"/>neſtneſſe they now do but it is but ſome money mat<g ref="char:EOLhyphen"/>ter as I am informed. Yeſterday Captaine <hi>Leg,</hi> and Sir <hi>William Carnaby</hi> rid poſt into the North, and this day my Lord of <hi>Newcaſtle</hi> is gone that way, I beleeve to garriſon <hi>Newcaſtle,</hi> for ſo we have heard this fort<g ref="char:EOLhyphen"/>night. It is doubtfull whether we ſhall have peace or warre, the Troopes of our Countrey Gentlemen for the Princes Guard are ordered, and have received their Colours, and have Captaines over them; the young Gentlemen receive no pay; in this note you have their names I know of. The King hath put out a very ſharp Anſwer to the laſt Remonſtrance, and about this day he will as is ſaid, put forth one other in which the malignant party in the Parliament Houſe wil be ſet out in their right colours. I pray you ſend us nothing that is Printed at <hi>York</hi> for we have enough of them. I did ſpeake with your mother about the bu<g ref="char:EOLhyphen"/>ſineſſe, and your friend in ſtore will not faile, how the other will doe I know not, but all your friends
+<pb n="3" facs="tcp:156776:3"/>
+are very well. Our Clergie are all againſt the Parlia<g ref="char:EOLhyphen"/>ment; if the Bil againſt pluralities had bin for 3 Bene<g ref="char:EOLhyphen"/>fices a peece, it had been more like to have had their favour; wee had a Parſon that ſent about to his Par<g ref="char:EOLhyphen"/>riſhioners, to forbid them to ſigne any Petition, and now there is a Petition come from <hi>Yorke,</hi> and read in ſome Churches, and deſired by the Kings ſervants to beſigned to the Parliament, as alſo their hath been let<g ref="char:EOLhyphen"/>ters of thanks to the Country for their pains in com<g ref="char:EOLhyphen"/>ming to <hi>Yorke.</hi> All manner of things are cheap, nay even meat at <hi>Yorke</hi> is very cheap, though all that great company be there. One thing I forgot, and that was before we went to ſhovt, Doctor <hi>Bean.</hi> came to perſwade all his friends about us to be for the King, and did proteſt ſolemnly, that if all would goe that way, the buſineſſe would come to a happy end, and with him that ſtout Captaine <hi>Robinſon</hi> came well pro<g ref="char:EOLhyphen"/>vided to teare any Proclamation, or any thing elſe that came from the Parliament. The Recuſants pay their Rents at <hi>Yorke</hi> very faſt. There was ſome paſſage on Monday at <hi>Yorke</hi> with the Souldiers, and thus it was, Alderman <hi>Vaux</hi> by his warrant had cauſed a Souldier to be arreſted, they did petition his Maje<g ref="char:EOLhyphen"/>ſtie, and order was ſent to releaſe the party, but upon refuſall Serjeant Major <hi>Duncome</hi> came with ſome ſoul<g ref="char:EOLhyphen"/>diers, and tooke the priſoner, whereupon the Soul<g ref="char:EOLhyphen"/>diers went to the Aldermans houſe, the Committee being then in it, and one of their ſervants came out with a Piſtoll, and demanded their occaſion therein, they tooke his Piſtoll from him, and broke all the windowes, pulled up the blew ſtoupes that were at his dore, and if Commiſſarie <hi>wilmot</hi> had not beene in the
+<pb n="4" facs="tcp:156776:4"/>
+houſe by chance, it is thought they had done more ill, they trayled the ſtoups to their houſe of Guard, and cryed Roundheads. And when I was at <hi>York</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Wharton</hi> bid one of his Souldiers to let me ſee two of Alderman <hi>Vaux</hi> Roundheads, and he did, which was his ſtoups, this was on Tueſday, I was there. It is alſo reported there is a generall pardon in drawing up, and onely twelve perſons to be excepted out of it, you may ſhew this letter if you pleaſe to your good friend and mine, all his are very well, here was one of his houſe, juſt while I was writing this, his two good Schollers were here on Monday: And thus with my daily prayers for your happy returnes, I reſt</p>
+            <closer>
+               <signed>Yours in all<lb/>
+G. W.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:156776:4"/>
+            <opener>
+               <dateline>From Hull <date>June 18. 1642.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Received yours on Friday laſt, and hope preſently to receive another. On Saturday laſt we had 2 Meſ<g ref="char:EOLhyphen"/>ſengers from the King; the firſt ſaid he was to deliver his Meſſage to the Committee, but while they were Aſſembling went his wayes, without delivering his er<g ref="char:EOLhyphen"/>rand. Another 4 houres after with a Letter to the Ma<g ref="char:EOLhyphen"/>ior from his Majeſty, who it ſeemes had bin informed we were all in combuſtion, commanding him to ſee that in theſe tumults, his Armes ſhould not be imbea<g ref="char:EOLhyphen"/>ſled away: the Relation of that b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bble here, which was the originall of this rumor, I ſuppoſe you had laſt weeke, as likewiſe of Mr. <hi>Cob,</hi> and Mr. <hi>Consta<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les</hi> Duel, about the ſenior Captaine-ſhip: the ſame mor<g ref="char:EOLhyphen"/>ning came a letter from the Sheriffe, ſignifying of di<g ref="char:EOLhyphen"/>verſe complaints upon Oath, of outrages committed by the garriſon upon the Countrey, ſo for his ſatis<g ref="char:EOLhyphen"/>faction, there is a full examination of Mr. <hi>Aldreds</hi> go<g ref="char:EOLhyphen"/>ing out with 6 Carabines for his guard, but without the leaſt violence offered to any ſent to <hi>Yorke</hi>: I heare there hath this weeke bin great ſtirring in <hi>Yorke,</hi> about an anti-Parliamentary petition, many refuſing, and in the Countrey about the ſame buſineſſe, to which <hi>Selby</hi> Towne hath generally ſubſcribed, and ſome others, but it will be backed with a good Proteſtation: the <hi>Militia</hi> is now fully ſetled in <hi>Lincolnſhire,</hi> none refu<g ref="char:EOLhyphen"/>ſing, notwithſtanding three threatning Letters to the contrary, ſent to the Committee: in <hi>Lincolne,</hi> the
+<pb n="6" facs="tcp:156776:5"/>
+voluntieres are equall to the trained Bands, a purſivant ſent to apprehend the Maior of <hi>Lincolne,</hi> was ſent for by the Commiſſioners to appeare before them. In South diviſion two head Conſtables ſent not out war<g ref="char:EOLhyphen"/>rants, yet came the Countrey in to a man, and with the like cheerefulneſſe was it received in all parts. Thurſday was the laſt Seſſion, Sir <hi>Edward Aſbue,</hi> and Sir <hi>Chriſtopher Wray</hi> will according to the Order bee here on Monday, there hath bin all this weeke, and is ſtill, a ſpeech of the Kings going to Lincolne: Cap<g ref="char:EOLhyphen"/>taine <hi>Leg</hi> is gone to <hi>Newcaſtle,</hi> a regiment of foot and 200 Horſe is to follow him, my Lord of <hi>Newcaſtle</hi> hath ſent for all his Horſe to <hi>Yorke,</hi> and 'tis ſaid they muſt follow him, none of the Lords are yet gon from <hi>Yorke,</hi> but my Lord <hi>Strange,</hi> who is gone into <hi>Lanca<g ref="char:EOLhyphen"/>ſhire,</hi> and not yet returned. Some at Yorke talke of a Petition from <hi>Cornewall</hi> with 10000 hands, as it was preſented to the King by my Lord <hi>Moone,</hi> proffering their lives and fortunes in the anti-parliaments ſer<g ref="char:EOLhyphen"/>vice, but I believe nothing of it, they deale ſo much in that trade of falſe rumors, that little comming that way is to be credided: yeſterday there was an affront offered to the Committee at Yorke. Alderman <hi>Vaux</hi> his houſe and chamber windowes broke with ſtones, by the ſouldiers, the Committee being there, com<g ref="char:EOLhyphen"/>plaint was made, but no redreſſe obtained, there is much ſpeech reported by ſome, and contradicted by others, comming thence lately of two troopes of Horſe come to Yorke, we know not well what to be<g ref="char:EOLhyphen"/>lieve, but certaine there is great and daily reſort of all ſorts of people thither.</p>
+            <closer>
+               <signed>Your aſſured Friend to ſerve you,
+<hi>S. M.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
